@@ -3,8 +3,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/HTSDryllx0Y)
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/yt_thumb.jpg">
+## [Watch Tutorial for this project](https://youtu.be/Ar6pCDWt2qs)
+<img src="https://github.com/Spidy20/Bird_Species_Classification_Streamlit/blob/master/thumb.jpg">
 
 ## Usage:-
 
@@ -28,11 +28,11 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/t1.png">
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/t2.PNG">
+<img src="https://github.com/Spidy20/Bird_Species_Classification_Streamlit/blob/master/sc1.png">
+<img src="https://github.com/Spidy20/Bird_Species_Classification_Streamlit/blob/master/sc2.png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
 
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
+<a href="https://www.buymeacoffee.com/spidy20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 ## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
